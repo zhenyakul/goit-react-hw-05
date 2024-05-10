@@ -1,0 +1,25 @@
+.input {
+  width: 290px;
+  height: 50px;
+  font-size: 30px;
+  background-color: transparent;
+  border: 0;
+  padding-right: 50px;
+}
+.button {
+  height: 50px;
+  background-color: transparent;
+  border: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.form {
+  display: inline-block;
+  border: 2px solid rgb(237, 114, 0);
+  border-radius: 3px;
+  flex-direction: row;
+  position: relative;
+  background-color: rgb(224, 224, 224);
+  margin-top: 25px;
+}
